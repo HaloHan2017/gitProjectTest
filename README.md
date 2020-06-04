@@ -1,2 +1,0 @@
-# gitProjectTest
-learnning git 
